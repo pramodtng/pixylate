@@ -1,3 +1,4 @@
+/* eslint-disable @typescript-eslint/no-explicit-any */
 import mongoose, {Mongoose} from "mongoose";
 
 const MONGO_DB_URL = process.env.NEXT_PUBLIC_DB_URL
